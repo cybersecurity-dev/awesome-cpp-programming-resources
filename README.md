@@ -10,15 +10,20 @@
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cpp_questions/new/)
 
-
+## 📖 Contents
+- [Blog](#blog)
+- [Videos](#videos)
+    - [Security](#security)
+    - [Memory](#memory)
+    - [Software Optimization](#software-optimization)
+- [Reference](#reference)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Blog
-
-
-## Reference
-
 
 ## Videos
 
@@ -35,3 +40,19 @@
 ### Software Optimization
 
 - [Andrei Alexandrescu explores methods for optimizing system-level code by moving beyond standard compiler features.](https://youtu.be/o4-CwDo2zpg?si=QeoB6a_7y13_aKU9)
+
+## Reference
+
+
+##
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-cpp-programming-resources/graphs/contributors)!
+
+[🔼 Back to top](##awesome-c-programming-resources-)
