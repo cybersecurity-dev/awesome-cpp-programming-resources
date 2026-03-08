@@ -15,6 +15,7 @@
 ## 📖 Contents
 - [Blog](#blog)
 - [Videos](#videos)
+    - [Value Categories](#value-categories) 
     - [Security](#security)
     - [Memory](#memory)
     - [Software Optimization](#software-optimization)
@@ -26,6 +27,11 @@
 ## Blog
 
 ## Videos
+
+### Value Categories
+
+- [Back to Basics: Understanding Value Categories - Ben Saks - CppCon 2019](https://youtu.be/XS2JddPq7GQ?si=EE15VNjPkIbbSsq4)
+- [Understanding C++ Value Categories: lvalue, rvalue, xvalue, std::move, std::forward & Best Practices](https://youtu.be/d5h9xpC9m8I?si=P270Or6OdyCChrhJ)
 
 ### Security
 
@@ -40,6 +46,7 @@
 ### Software Optimization
 
 - [Andrei Alexandrescu explores methods for optimizing system-level code by moving beyond standard compiler features.](https://youtu.be/o4-CwDo2zpg?si=QeoB6a_7y13_aKU9)
+
 
 ## Reference
 
