@@ -1,5 +1,7 @@
-# Awesome C++ Programming Resources
-
+<div align="center">
+  
+# **`Awesome`** [C++](https://github.com/cybersecurity-dev/awesome-cpp-programming-language) Programming Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
 
 ## Blog
 
