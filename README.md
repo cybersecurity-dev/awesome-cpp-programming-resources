@@ -27,7 +27,7 @@
 ## Blog
 
 ## Videos
-
+- [CppCon 2018: Kate Gregory "Simplicity: Not Just For Beginners"](https://youtu.be/n0Ak6xtVXno?si=05zGQfX5EBVZ91JO)
 ### Value Categories
 
 - [Back to Basics: Understanding Value Categories - Ben Saks - CppCon 2019](https://youtu.be/XS2JddPq7GQ?si=EE15VNjPkIbbSsq4)
