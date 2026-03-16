@@ -24,6 +24,15 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+
+## Standarts
+* [C++11 reference](https://cppreference.com/w/cpp/11.html)
+* [C++14 reference](https://cppreference.com/w/cpp/14.html)
+* [C++17 reference](https://cppreference.com/w/cpp/17.html)
+* [C++20 reference](https://cppreference.com/w/cpp/20.html)
+* [C++23 reference](https://cppreference.com/w/cpp/23.html)
+* [C++26 reference](https://cppreference.com/w/cpp/26.html)
+
 ## Blog
 
 ## Videos
