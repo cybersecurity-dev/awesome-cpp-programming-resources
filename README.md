@@ -57,6 +57,15 @@
 - [Andrei Alexandrescu explores methods for optimizing system-level code by moving beyond standard compiler features.](https://youtu.be/o4-CwDo2zpg?si=QeoB6a_7y13_aKU9)
 
 
+## Exercises
+
+* [C++ Quiz](https://cppquiz.org/quiz/question/1)
+
+
+## Tools
+
+* [cppinsights](https://cppinsights.io/) - [C++ Insights](https://youtu.be/_ZvNJciCXeE?si=okppkrQNCw7QIIij) shows how compilers see your code.
+
 ## Reference
 
 
