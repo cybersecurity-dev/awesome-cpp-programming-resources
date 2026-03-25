@@ -13,6 +13,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cpp_questions/new/)
 
 ## 📖 Contents
+- [Standarts](#standarts)
+- [Books](#books)
 - [Blog](#blog)
 - [Videos](#videos)
     - [Value Categories](#value-categories) 
@@ -32,6 +34,9 @@
 * [C++20 reference](https://cppreference.com/w/cpp/20.html)
 * [C++23 reference](https://cppreference.com/w/cpp/23.html)
 * [C++26 reference](https://cppreference.com/w/cpp/26.html)
+
+## Books
+* [C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
 
 ## Blog
 
