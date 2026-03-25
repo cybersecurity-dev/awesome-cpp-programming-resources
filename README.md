@@ -85,4 +85,4 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-cpp-programming-resources/graphs/contributors)!
 
-[🔼 Back to top](##awesome-c-programming-resources-)
+[🔼 Back to top](#awesome-c-programming-resources-)
