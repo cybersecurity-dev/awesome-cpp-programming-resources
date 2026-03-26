@@ -37,7 +37,9 @@
 
 ## Books
 * [C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
-
+* [C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (C++ In-Depth)](https://www.amazon.com/Coding-Standards-Guidelines-Practices-Depth-ebook/dp/B004ISL6I0)
+* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)
+ 
 ## Blog
 
 ## Videos
