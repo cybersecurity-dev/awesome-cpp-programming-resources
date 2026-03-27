@@ -37,9 +37,12 @@
 
 ## Books
 * [C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
-* [C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (C++ In-Depth)](https://www.amazon.com/Coding-Standards-Guidelines-Practices-Depth-ebook/dp/B004ISL6I0)
 * [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)
- 
+* [C++ Crash Course: A Fast-Paced Introduction](https://www.amazon.com/C-Crash-Course-Josh-Lospinoso/dp/1593278888)
+* [Tour of C++, A (C++ In-Depth Series)](https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487)
+* [C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (C++ In-Depth)](https://www.amazon.com/Coding-Standards-Guidelines-Practices-Depth-ebook/dp/B004ISL6I0)
+* [C++ Templates: The Complete Guide ](https://www.amazon.com/Templates-Complete-Guide-David-Vandevoorde-ebook/dp/B075MJNCCH)
+
 ## Blog
 
 ## Videos
