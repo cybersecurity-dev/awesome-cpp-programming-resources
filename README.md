@@ -66,6 +66,8 @@
 
 - [Andrei Alexandrescu explores methods for optimizing system-level code by moving beyond standard compiler features.](https://youtu.be/o4-CwDo2zpg?si=QeoB6a_7y13_aKU9)
 
+### Strings
+- [How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade](https://www.youtube.com/watch?v=PEvkBmuMIr8)
 
 ## Exercises
 
