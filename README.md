@@ -69,6 +69,22 @@
 ### Strings
 - [How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade](https://www.youtube.com/watch?v=PEvkBmuMIr8)
 
+## What is new in [**`C++20`**](https://wikipedia.org/wiki/C%2B%2B20) / [**`C++23`**](https://wikipedia.org/wiki/C%2B%2B23) / [**`C++26`**](https://wikipedia.org/wiki/C%2B%2B26)
+
+### [C++20](https://wikipedia.org/wiki/C%2B%2B20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVw5A7UAF80nrGjqa4YHH5V&si=Qs-HYOl3nWr1aW_S)
+
+* [C++20: An (Almost) Complete Overview by Marc Gregoire](https://youtu.be/FRkJCvHWdwQ?si=NQEmWX8y5I4bT8a_)
+
+### [C++23](https://wikipedia.org/wiki/C%2B%2B23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUDgZNWp3jEfVCekz3zyqlR&si=9ydOxTrqNAMecWHX)
+
+* [C++23 - What's In It For You? by Marc Gregoire](https://youtu.be/b0NkuoUkv0M?si=aF1Zl-Fl6gMWHkhF)
+
+
+### [C++26](https://wikipedia.org/wiki/C%2B%2B26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUMnYOdxU8Qyl58Y8d65csM&si=UT8y6spBSphgR1le)
+
+* [C++26 - What's In It For You? by Marc Gregoire](https://youtu.be/PcidhLUYp-4?si=mbFAv1TCz2pKvOPK)
+
+
 ## Exercises
 
 * [C++ Quiz](https://cppquiz.org/quiz/question/1)
