@@ -69,6 +69,17 @@
 ### Strings
 - [How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade](https://www.youtube.com/watch?v=PEvkBmuMIr8)
 
+
+## Concurrency & Parallelism 
+> Concurrency is about dealing with multiple tasks at once. ❌ No, Needs multiple cores.
+
+> Parallelism is about doing multiple tasks at the exact same time. ✅ Yes, Needs multiple cores.
+
+> Multithreading is a technique that allows a program to have multiple threads of execution. ❌/✅ Depends, Needs multiple cores.
+
+* [The Cost of Concurrency Coordination by Jon Gjengset](https://www.youtube.com/watch?v=tND-wBBZ8RY)
+
+
 ## What is new in [**`C++20`**](https://wikipedia.org/wiki/C%2B%2B20) / [**`C++23`**](https://wikipedia.org/wiki/C%2B%2B23) / [**`C++26`**](https://wikipedia.org/wiki/C%2B%2B26)
 
 ### [C++20](https://wikipedia.org/wiki/C%2B%2B20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVw5A7UAF80nrGjqa4YHH5V&si=Qs-HYOl3nWr1aW_S)
