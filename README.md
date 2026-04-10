@@ -70,7 +70,7 @@
 - [How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade](https://www.youtube.com/watch?v=PEvkBmuMIr8)
 
 
-## Concurrency & Parallelism 
+## [Concurrency](https://wikipedia.org/wiki/Concurrency_(computer_science)) & [Parallelism](https://wikipedia.org/wiki/Parallel_computing) & [Multithreading](https://wikipedia.org/wiki/Multithreading_(computer_architecture))
 > Concurrency is about dealing with multiple tasks at once. ❌ No, Needs multiple cores.
 
 > Parallelism is about doing multiple tasks at the exact same time. ✅ Yes, Needs multiple cores.
