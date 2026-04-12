@@ -80,6 +80,10 @@
 * [The Cost of Concurrency Coordination by Jon Gjengset](https://www.youtube.com/watch?v=tND-wBBZ8RY)
 
 
+## [Template](https://wikipedia.org/wiki/Template_metaprogramming) [Metaprogramming](https://wikipedia.org/wiki/Metaprogramming)
+* [Back to Basics: Templates (part 1 of 2) by Andreas Fertig](https://youtu.be/VNJ4wiuxJM4?si=gtVML7CRJG_-guBH)
+* [Back to Basics: Templates (part 2 of 2) by Andreas Fertig](https://youtu.be/0dtjDTEE0hQ?si=bFnTiGFJ8YtaSd6H)
+
 ## What is new in [**`C++20`**](https://wikipedia.org/wiki/C%2B%2B20) / [**`C++23`**](https://wikipedia.org/wiki/C%2B%2B23) / [**`C++26`**](https://wikipedia.org/wiki/C%2B%2B26)
 
 ### [C++20](https://wikipedia.org/wiki/C%2B%2B20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVw5A7UAF80nrGjqa4YHH5V&si=Qs-HYOl3nWr1aW_S)
