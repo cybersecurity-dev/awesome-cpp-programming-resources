@@ -71,16 +71,20 @@
 
 
 ## [Concurrency](https://wikipedia.org/wiki/Concurrency_(computer_science)) & [Parallelism](https://wikipedia.org/wiki/Parallel_computing) & [Multithreading](https://wikipedia.org/wiki/Multithreading_(computer_architecture))
-> Concurrency is about dealing with multiple tasks at once. ❌ No, Needs multiple cores.
+> `Concurrency` is about dealing with multiple tasks at once. ❌ No, Needs multiple cores.
 
-> Parallelism is about doing multiple tasks at the exact same time. ✅ Yes, Needs multiple cores.
+> `Parallelism` is about doing multiple tasks at the exact same time. ✅ Yes, Needs multiple cores.
 
-> Multithreading is a technique that allows a program to have multiple threads of execution. ❌/✅ Depends, Needs multiple cores.
+> `Multithreading` is a technique that allows a program to have multiple threads of execution. ❌/✅ Depends, Needs multiple cores.
 
 * [The Cost of Concurrency Coordination by Jon Gjengset](https://www.youtube.com/watch?v=tND-wBBZ8RY)
 
 
 ## [Template](https://wikipedia.org/wiki/Template_metaprogramming) [Metaprogramming](https://wikipedia.org/wiki/Metaprogramming)
+> `Metaprogramming` writing programs that create, inspect, or modify other programs or themselves.
+
+> `Template metaprogramming` is a form of compile‑time metaprogramming in C++ where you use templates to perform computations, make decisions, and generate code during compilation, not at runtime.
+ 
 * [Back to Basics: Templates (part 1 of 2) by Andreas Fertig](https://youtu.be/VNJ4wiuxJM4?si=gtVML7CRJG_-guBH)
 * [Back to Basics: Templates (part 2 of 2) by Andreas Fertig](https://youtu.be/0dtjDTEE0hQ?si=bFnTiGFJ8YtaSd6H)
 
