@@ -17,10 +17,12 @@
 - [Books](#books)
 - [Blog](#blog)
 - [Videos](#videos)
+- Specific Topics
     - [Value Categories](#value-categories) 
     - [Security](#security)
     - [Memory](#memory)
     - [Software Optimization](#software-optimization)
+    - [Concurrency & Parallelism & Multithreading](#concurrency--parallelism--multithreading)
 - [Reference](#reference)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
@@ -45,65 +47,103 @@
 
 ## Blog
 
+---
+---
+
 ## Videos
 - [CppCon 2018: Kate Gregory "Simplicity: Not Just For Beginners"](https://youtu.be/n0Ak6xtVXno?si=05zGQfX5EBVZ91JO)
+
+---
+---
+
+## Specific Topics
+
+---
+
 ### Value Categories
 
+#### Videos
 - [Back to Basics: Understanding Value Categories - Ben Saks - CppCon 2019](https://youtu.be/XS2JddPq7GQ?si=EE15VNjPkIbbSsq4)
 - [Understanding C++ Value Categories: lvalue, rvalue, xvalue, std::move, std::forward & Best Practices](https://youtu.be/d5h9xpC9m8I?si=P270Or6OdyCChrhJ)
 
+---
+
 ### Security
 
+#### Videos
 - [Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)](https://youtu.be/n4Yf2tBeAbE?si=6BtrUlyZx08E4mx3)
 - [Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)](https://youtu.be/i0m0FBD-McY?si=JlfPS9WKMac7Hn1P)
 
+---
+
 ### Memory
 
+#### Videos
 - [Modern C++ (move semantics, perfect forwarding)](https://youtu.be/kRVjG3qb7RE?si=9sgVjsZtN28BThjt)
 - [Move Semantics Explained - Learn Modern C++](https://youtu.be/ruHw7E71zBw?si=70md3w9BB0ipQA5O)
 
+---
+
 ### Software Optimization
 
+#### Videos
 - [Andrei Alexandrescu explores methods for optimizing system-level code by moving beyond standard compiler features.](https://youtu.be/o4-CwDo2zpg?si=QeoB6a_7y13_aKU9)
 
+---
+
 ### Strings
+
+#### Videos
 - [How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade](https://www.youtube.com/watch?v=PEvkBmuMIr8)
 
+---
 
-## [Concurrency](https://wikipedia.org/wiki/Concurrency_(computer_science)) & [Parallelism](https://wikipedia.org/wiki/Parallel_computing) & [Multithreading](https://wikipedia.org/wiki/Multithreading_(computer_architecture))
+### [Concurrency](https://wikipedia.org/wiki/Concurrency_(computer_science)) & [Parallelism](https://wikipedia.org/wiki/Parallel_computing) & [Multithreading](https://wikipedia.org/wiki/Multithreading_(computer_architecture))
 > `Concurrency` is about dealing with multiple tasks at once. ❌ No, Needs multiple cores.
 
 > `Parallelism` is about doing multiple tasks at the exact same time. ✅ Yes, Needs multiple cores.
 
 > `Multithreading` is a technique that allows a program to have multiple threads of execution. ❌/✅ Depends, Needs multiple cores.
 
+#### Videos
+
 * [The Cost of Concurrency Coordination by Jon Gjengset](https://www.youtube.com/watch?v=tND-wBBZ8RY)
+* [Choose the Right C++ Parallelism Tool | Low-Level vs Async vs Coroutines vs Data Parallel by Eran Gilad](https://youtu.be/7a9AP4rD08M?si=yv4MVkmffdtPReH9)
 
+---
 
-## [Template](https://wikipedia.org/wiki/Template_metaprogramming) [Metaprogramming](https://wikipedia.org/wiki/Metaprogramming)
+### [Template](https://wikipedia.org/wiki/Template_metaprogramming) [Metaprogramming](https://wikipedia.org/wiki/Metaprogramming)
 > `Metaprogramming` writing programs that create, inspect, or modify other programs or themselves.
 
 > `Template metaprogramming` is a form of compile‑time metaprogramming in C++ where you use templates to perform computations, make decisions, and generate code during compilation, not at runtime.
- 
+
+#### Videos
 * [Back to Basics: Templates (part 1 of 2) by Andreas Fertig](https://youtu.be/VNJ4wiuxJM4?si=gtVML7CRJG_-guBH)
 * [Back to Basics: Templates (part 2 of 2) by Andreas Fertig](https://youtu.be/0dtjDTEE0hQ?si=bFnTiGFJ8YtaSd6H)
 * [C++ Variadic Templates and Parameter Packs by Vladimir Vishnevski](https://youtu.be/zx4f7OT7Uec?si=iIXu9bONGIKa488W)
 
-## What is new in [**`C++20`**](https://wikipedia.org/wiki/C%2B%2B20) / [**`C++23`**](https://wikipedia.org/wiki/C%2B%2B23) / [**`C++26`**](https://wikipedia.org/wiki/C%2B%2B26)
+---
 
-### [C++20](https://wikipedia.org/wiki/C%2B%2B20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVw5A7UAF80nrGjqa4YHH5V&si=Qs-HYOl3nWr1aW_S)
+### What is new in [**`C++20`**](https://wikipedia.org/wiki/C%2B%2B20) / [**`C++23`**](https://wikipedia.org/wiki/C%2B%2B23) / [**`C++26`**](https://wikipedia.org/wiki/C%2B%2B26)
 
+#### [C++20](https://wikipedia.org/wiki/C%2B%2B20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVw5A7UAF80nrGjqa4YHH5V&si=Qs-HYOl3nWr1aW_S)
+
+##### Videos
 * [C++20: An (Almost) Complete Overview by Marc Gregoire](https://youtu.be/FRkJCvHWdwQ?si=NQEmWX8y5I4bT8a_)
 
-### [C++23](https://wikipedia.org/wiki/C%2B%2B23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUDgZNWp3jEfVCekz3zyqlR&si=9ydOxTrqNAMecWHX)
+#### [C++23](https://wikipedia.org/wiki/C%2B%2B23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUDgZNWp3jEfVCekz3zyqlR&si=9ydOxTrqNAMecWHX)
 
+##### Videos
 * [C++23 - What's In It For You? by Marc Gregoire](https://youtu.be/b0NkuoUkv0M?si=aF1Zl-Fl6gMWHkhF)
 
 
-### [C++26](https://wikipedia.org/wiki/C%2B%2B26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUMnYOdxU8Qyl58Y8d65csM&si=UT8y6spBSphgR1le)
+#### [C++26](https://wikipedia.org/wiki/C%2B%2B26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUMnYOdxU8Qyl58Y8d65csM&si=UT8y6spBSphgR1le)
 
+##### Videos
 * [C++26 - What's In It For You? by Marc Gregoire](https://youtu.be/PcidhLUYp-4?si=mbFAv1TCz2pKvOPK)
 
+---
+---
 
 ## Exercises
 
