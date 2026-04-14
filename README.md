@@ -143,7 +143,7 @@
 
 ##### Videos
 * [C++26 - What's In It For You? by Marc Gregoire](https://youtu.be/PcidhLUYp-4?si=mbFAv1TCz2pKvOPK)
-
+* [Three Cool Things in C++26: Safety, Reflection & std::execution by Herb Sutter](https://youtu.be/kKbT0Vg3ISw?si=Tl-XPD90bwEYAcmk)
 ---
 ---
 
