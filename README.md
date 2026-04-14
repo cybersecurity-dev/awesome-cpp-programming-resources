@@ -111,6 +111,7 @@
 
 * [The Cost of Concurrency Coordination by Jon Gjengset](https://www.youtube.com/watch?v=tND-wBBZ8RY)
 * [Choose the Right C++ Parallelism Tool | Low-Level vs Async vs Coroutines vs Data Parallel by Eran Gilad](https://youtu.be/7a9AP4rD08M?si=yv4MVkmffdtPReH9)
+* [C++20’s Coroutines for Beginners by Andreas Fertig](https://youtu.be/8sEe-4tig_A?si=Pp3LbSr51M5rtXs9)
 
 ---
 
