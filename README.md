@@ -159,6 +159,12 @@
 
 ## Reference
 
+## C++ Hall Of Fame
+
+* [Andrei Alexandrescu](https://www.youtube.com/results?search_query=%22Andrei+Alexandrescu%22&sp=CAMSBBABGAI%253D)
+* [Bjarne Stroustrup](https://www.youtube.com/results?search_query=%22Bjarne+Stroustrup%22&sp=CAMSBBABGAI%253D)
+* [Herb Sutter](https://www.youtube.com/results?search_query=%22Herb+Sutter%22&sp=CAMSBBABGAI%253D)
+* [Scott Meyers](https://www.youtube.com/results?search_query=%22Scott+Meyers%22&sp=CAMSBBABGAI%253D)
 
 ##
 
