@@ -26,6 +26,7 @@
     - [Template Metaprogramming](#template-metaprogramming)
     - [What is new in C++20/C++23/C++26](#what-is-new-in-c20--c23--c26)
 - [Reference](#reference)
+- [C++ Hall Of Fame](#c-hall-of-fame)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -177,5 +178,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-cpp-programming-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-c-programming-resources-)
