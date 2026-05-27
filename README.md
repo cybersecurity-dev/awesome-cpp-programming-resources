@@ -48,6 +48,7 @@
 * [C++ Templates: The Complete Guide ](https://www.amazon.com/Templates-Complete-Guide-David-Vandevoorde-ebook/dp/B075MJNCCH)
 
 ## Blog
+- [LearnCpp.com](https://learncpp.com/)
 
 ---
 ---
