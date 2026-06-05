@@ -69,7 +69,8 @@
 #### Videos
 - [Back to Basics: Understanding Value Categories - Ben Saks - CppCon 2019](https://youtu.be/XS2JddPq7GQ?si=EE15VNjPkIbbSsq4)
 - [Understanding C++ Value Categories: lvalue, rvalue, xvalue, std::move, std::forward & Best Practices](https://youtu.be/d5h9xpC9m8I?si=P270Or6OdyCChrhJ)
-
+- [Modern C++ (move semantics, perfect forwarding)](https://youtu.be/kRVjG3qb7RE?si=9sgVjsZtN28BThjt)
+- [Move Semantics Explained - Learn Modern C++](https://youtu.be/ruHw7E71zBw?si=70md3w9BB0ipQA5O)
 ---
 
 ### Security
@@ -83,8 +84,9 @@
 ### Memory
 
 #### Videos
-- [Modern C++ (move semantics, perfect forwarding)](https://youtu.be/kRVjG3qb7RE?si=9sgVjsZtN28BThjt)
-- [Move Semantics Explained - Learn Modern C++](https://youtu.be/ruHw7E71zBw?si=70md3w9BB0ipQA5O)
+- [C++ Memory Model: from C++11 to C++23 by `Alex Dathskovsky`](https://www.youtube.com/watch?v=tjcU2xDmuFQ)
+- [C++ Memory Management • an Interview with `Patrice Roy`](https://youtu.be/R5e1SwoC53c?si=i1_qcuD0Y_O3l_Jt)
+- [C++ Memory Management by `Patrice Roy & Kevin Carpenter`](https://youtu.be/aDxviPTVUUg?si=ZDpO2D6PsxSXUvcv)
 
 ---
 
