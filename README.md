@@ -21,6 +21,34 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+flowchart TD
+
+A[C++ Libraries]
+
+A --> B[Standard Library]
+A --> C[Boost]
+A --> D[Qt]
+A --> E[Poco]
+A --> F[OpenCV]
+A --> G[gRPC]
+A --> H[TensorFlow]
+
+B --> B1[STL]
+B --> B2[Threads]
+B --> B3[Filesystem]
+
+C --> C1[Smart Utilities]
+C --> C2[Networking]
+
+D --> D1[GUI]
+D --> D2[Desktop Apps]
+
+F --> F1[Computer Vision]
+
+H --> H1[Machine Learning]
+```
+
 ## 📖 Contents
 - [Standarts](#standarts)
 - [Books](#books)
@@ -210,6 +238,56 @@ mindmap
 ---
 
 ### What is new in [**`C++20`**](https://wikipedia.org/wiki/C%2B%2B20) / [**`C++23`**](https://wikipedia.org/wiki/C%2B%2B23) / [**`C++26`**](https://wikipedia.org/wiki/C%2B%2B26)
+
+```mermaid
+flowchart TD
+
+A[C++98 Foundations]
+
+A --> B[C++11]
+
+B --> B1[auto]
+B --> B2[Lambda]
+B --> B3[Move Semantics]
+B --> B4[Smart Pointers]
+B --> B5[Concurrency]
+
+B3 --> C[C++14]
+
+C --> C1[Generic Lambda]
+C --> C2[Enhanced constexpr]
+
+C --> D[C++17]
+
+D --> D1[optional]
+D --> D2[variant]
+D --> D3[any]
+D --> D4[string_view]
+D --> D5[filesystem]
+D --> D6[Structured Bindings]
+
+D --> E[C++20]
+
+E --> E1[Concepts]
+E --> E2[Ranges]
+E --> E3[Coroutines]
+E --> E4[Modules]
+E --> E5[Spaceship Operator]
+
+E --> F[C++23]
+
+F --> F1[expected]
+F --> F2[mdspan]
+F --> F3[print]
+F --> F4[stacktrace]
+
+style A fill:#34495e,color:#fff
+style B fill:#3498db,color:#fff
+style C fill:#2980b9,color:#fff
+style D fill:#2ecc71,color:#fff
+style E fill:#f39c12,color:#fff
+style F fill:#e74c3c,color:#fff
+```
 
 #### [C++20](https://wikipedia.org/wiki/C%2B%2B20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVw5A7UAF80nrGjqa4YHH5V&si=Qs-HYOl3nWr1aW_S)
 
