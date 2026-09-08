@@ -12,6 +12,15 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cpp_questions/new/)
 
+<p align="center">
+    <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    &nbsp;
+    <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
+</p>
+
 ## 📖 Contents
 - [Standarts](#standarts)
 - [Books](#books)
@@ -33,6 +42,74 @@
 
 
 ## Standarts
+
+```mermaid
+mindmap
+  root((C++ Standards))
+
+    C++98
+      Classes
+      STL
+      Templates
+      Exceptions
+      RTTI
+
+    C++03
+      Bug Fixes
+      Library Improvements
+
+    C++11
+      auto
+      nullptr
+      Lambda
+      Move Semantics
+      Smart Pointers
+      Variadic Templates
+      Range For
+      enum class
+      constexpr
+      thread
+      mutex
+
+    C++14
+      Generic Lambda
+      make_unique
+      Improved constexpr
+      Variable Templates
+      Binary Literals
+
+    C++17
+      Structured Bindings
+      if constexpr
+      inline variables
+      string_view
+      optional
+      variant
+      any
+      filesystem
+      Parallel STL
+
+    C++20
+      Concepts
+      Ranges
+      Coroutines
+      Modules
+      Span
+      consteval
+      constinit
+      Three-way Comparison
+      jthread
+
+    C++23
+      expected
+      mdspan
+      print
+      stacktrace
+      ranges enhancements
+      multidimensional views
+      move_only_function
+```
+
 * [C++11 reference](https://cppreference.com/w/cpp/11.html)
 * [C++14 reference](https://cppreference.com/w/cpp/14.html)
 * [C++17 reference](https://cppreference.com/w/cpp/17.html)
